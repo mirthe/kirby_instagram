@@ -12,7 +12,7 @@ git submodule add https://github.com/mirthe/kirby_instagram.git site/plugins/ins
 
 Placed for example with 
 
-    (instagram: id: 1505710196739514373)
+    (instagram: id: Ce0_V7OlizL)
 
 <img src="example.png" alt="Example of usage">
 
