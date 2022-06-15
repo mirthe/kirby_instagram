@@ -1,0 +1,14 @@
+{
+    "name": "mirthe/instagram",
+    "description": "This plugin allows you to embed instagram posts in your Kirby pages.",
+    "homepage": "https://github.com/mirthe/kirby_instagram",
+    "keywords": ["kirby-plugin", "embed", "instagram", "photo"],
+    "type": "kirby-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mirthe Valentijn",
+            "email": "me@Mirthe.org"
+        }
+    ]
+}
